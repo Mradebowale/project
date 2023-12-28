@@ -1,7 +1,6 @@
 from django.db import models
 import secrets
 from .paystack import PayStack
-import 
 
 # Create your models here.
 
